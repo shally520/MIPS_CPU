@@ -1,0 +1,12 @@
+夏宇闻Verilog视频十六讲
+连接：链接：https://pan.baidu.com/s/1WGoC2pX_ywdroOszGPfbcg
+提取码：gp3k
+
+抱歉宝贝😭近期应该没时间做了...但是据我的经验，理解了单周期之后，流水线也是很好理解的！它是以单周期为基础的，只是在每个组合逻辑之间加了一个“停顿”-时序逻辑，为了能实现并行需要很多细节处理。
+可以看一下这本书，讲的很好！不用全看，看基础篇就很够了！
+https://pan.baidu.com/s/1gJk5OoO-bO89hQdxtF_3TA 提取码:u800
+代码在这 https://github.com/qing-2/CPU/tree/pipeline-CPU
+
+实验书：https://pan.baidu.com/s/18njD-RMu4C17zOCkd8PjCA 提取码：wcwx
+
+复制这段内容后打开百度网盘App，操作更方便哦。 链接:https://pan.baidu.com/s/177RvsP6wAASF9gTsQGzq7g 提取码:uqwe
